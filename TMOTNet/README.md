@@ -4,6 +4,10 @@ This repository provides the code for the method in our paper '**Text-Mediated O
 
 If you have any questions, you can send me an email. My mail address is 24171213924@stu.xidian.edu.cn.
 
+<p align="center">
+  #<img src="images/SCGNet.png" width="800">
+</p>
+
 ## Requirements
 - Python 3.8+
 - PyTorch 1.7+
