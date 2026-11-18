@@ -1,6 +1,7 @@
 # TMOTNet
 
-This repository provides the code for the method in our paper '**Text-Mediated Optimal Transport Network for Remote Sensing Semantic Change Detection**'.
+This repository provides the code for the method in our paper '**Text-Mediated Optimal Transport Network for Remote Sensing Semantic Change Detection**'. 
+ISPRS Journal of Photogrammetry andRemote Sensing, 2026
 
 If you have any questions, you can send me an email. My mail address is 24171213924@stu.xidian.edu.cn.
 
