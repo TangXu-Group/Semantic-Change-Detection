@@ -4,9 +4,13 @@ This repository provides the code for the method in our paper '**Text-Mediated O
 
 If you have any questions, you can send me an email. My mail address is 24171213924@stu.xidian.edu.cn.
 
-## Overview
-
 ## Requirements
+- Python 3.8+
+- PyTorch 1.7+
+- torchvision
+- scikit-image
+- numpy
+- tensorboardX
 
 ## Datasets
 
